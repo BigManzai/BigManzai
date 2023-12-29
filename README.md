@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![BigManzai´s GitHub stats](https://github-readme-stats.vercel.app/api?username=BigManzai)](https://github.com/BigManzai/BigManzai/blob/main/README.md)
-
 <a href="https://github.com/BigManzai/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BigManzai" />
 </a>
