@@ -2,6 +2,13 @@
 
 [![BigManzai´s GitHub stats](https://github-readme-stats.vercel.app/api?username=BigManzai)](https://github.com/BigManzai/BigManzai/blob/main/README.md)
 
+<a href="https://github.com/BigManzai/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BigManzai" />
+</a>
+<a href="https://github.com/BigManzai/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BigManzai&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **BigManzai/BigManzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
